@@ -8,20 +8,20 @@ The goal of this project is to identify business leakages, operational bottlenec
 
 Ride-hailing platforms face multiple operational challenges:
 
-High cancellation rates
-Driver allocation delays
-Demand-supply imbalance
-Revenue leakage
-Customer experience variability
+-High cancellation rates
+-Driver allocation delays
+-Demand-supply imbalance
+-Revenue leakage
+-Customer experience variability
 
 This project aims to analyze these factors and recommend optimization opportunities.
 
 🧰 Tools & Technologies Used
 
-SQL Server → Data analysis & KPI computation
-Power BI → Dashboard development & visualization
-Excel → Data storage & preprocessing
-DAX → KPI & calculated measure creation
+-SQL Server → Data analysis & KPI computation
+-Power BI → Dashboard development & visualization
+-Excel → Data storage & preprocessing
+-DAX → KPI & calculated measure creation
 
 📂 Dataset Details
 
@@ -31,6 +31,7 @@ Total Records: 100,000 Bookings
 Vehicle Types: Auto, Bike, Mini, Sedan, SUV, Prime Plus, eBike
 
 📊 Dashboard Pages
+
 1️⃣ Executive Overview
 
 Provides a high-level snapshot of platform performance:
