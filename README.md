@@ -33,6 +33,8 @@ Vehicle Types: Auto, Bike, Mini, Sedan, SUV, Prime Plus, eBike
 📊 Dashboard Pages
 
 1️⃣ Executive Overview
+<img width="1356" height="756" alt="Overall analysis" src="https://github.com/user-attachments/assets/66e3ca14-88f9-4694-a965-e93e977b839f" />
+
 
 Provides a high-level snapshot of platform performance:
 Total Bookings → 100K
@@ -43,6 +45,8 @@ Incomplete Rate → 8%
 Insight: Strong demand but fulfillment leakage exists.
 
 2️⃣ Location & Route Analysis
+<img width="1360" height="751" alt="location   Route analysis" src="https://github.com/user-attachments/assets/9df317ac-8171-4347-b2c0-09a225b1524b" />
+
 
 Analyzes geographic demand distribution:
 Top pickup & drop zones
@@ -51,6 +55,8 @@ Revenue-generating routes
 Insight: Demand is concentrated across office & residential corridors like Marathahalli and HSR Layout.
 
 3️⃣ Cancellation Analysis
+<img width="1364" height="753" alt="cancellation analysis" src="https://github.com/user-attachments/assets/addbfb95-f017-434e-ab15-669b74912069" />
+
 
 Diagnoses booking failures:
 Customer vs Driver cancellations
@@ -59,6 +65,8 @@ Vehicle cancellation trends
 Insight: Majority cancellations originate from customer-side behavioral & driver allocation issues.
 
 4️⃣ Operations & Arrival Efficiency
+<img width="1361" height="762" alt="Operation   Arrival Analysis" src="https://github.com/user-attachments/assets/7a61ba24-a386-49b3-9f8b-d5a1e2ba01f8" />
+
 
 Measures driver supply performance:
 Avg VTAT → 7 mins
@@ -68,6 +76,8 @@ Delay vs success correlation
 Insight: Peak-hour congestion slightly impacts ride fulfillment.
 
 5️⃣ Customer Experience & Ratings
+<img width="1367" height="738" alt="Ratings Analaysis" src="https://github.com/user-attachments/assets/59d3ee9d-095e-495f-8d37-94d6df54909a" />
+
 
 Evaluates rider satisfaction:
 Avg customer rating → 4.25
